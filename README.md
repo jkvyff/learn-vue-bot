@@ -1,6 +1,6 @@
 # build-a-bot
 Working off https://www.pluralsight.com/courses/vuejs-fundamentals with slight changes for latest vue release.
-source code found at https://github.com/jmcooper/vuejs-fundamentals
+Source code found at https://github.com/jmcooper/vuejs-fundamentals
 
 
 ## Project setup
