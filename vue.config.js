@@ -1,4 +1,10 @@
 module.exports = {
+	configureWebpack: (config) {
+		config.module.rules.push({
+			test: /\.coffee$/,
+			use: ['coffee-loader'],
+		});
+	},
 	devServer: {
 		proxy: {
 			'/api': {
